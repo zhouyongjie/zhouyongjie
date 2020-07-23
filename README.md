@@ -7,14 +7,14 @@
 ## Hi 👋, 
 I'm Sixpence Said, I'm a algorithm engineer 👨‍💻 who is passionate about programme and open source. I'm also a self proclaimed graphic designer. 
 
-- 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about: tech, memes, anime
+- 🔭 I’m currently working on NLP(Natural Language Processing) 
+- 🌱 I’m currently learning mechine learning
+- 💬 Ask me about: tech, memes, soccer
 - 😄 Pronouns: he/him
--  ⚡ Languages: Java, Kotlin, Python3
+-  ⚡ Languages: Python3
 
 
-> El Psy Kongroo
+> Sixpence Said
 
 
 ---
