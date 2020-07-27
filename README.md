@@ -8,7 +8,6 @@ I'm Sixpence,I'm a algorithm engineer 👨‍💻 who is passionate about progra
 - 👨‍💻 I’m currently working on NLP(Natural Language Processing) 
 - 🌱 I’m currently learning mechine learning
 - 💬 Ask me about: tech, memes, soccer
-- 😄 Pronouns: he/him
 -  ⚡ Languages: Python3
 
 
