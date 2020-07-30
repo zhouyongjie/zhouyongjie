@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Sixpencezyj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sixpencezyj@gmail.com)](mailto:sixpencezyj@gmail.com)  [![Sina Badge](https://img.shields.io/badge/-Sixpence-E6162D?style=flat-square&logo=sina%20weibo&logoColor=white&link=https://weibo.com/5729423505/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)](https://weibo.com/5729423505/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1)  [![Persional Badge](https://img.shields.io/badge/-PersonalWebsite-c14438?style=flat-square&logoColor=white&link=http://www.yongjie41801.com/)](http://www.yongjie41801.com/)
 
 ## Hi 👋, 
-I'm Sixpence,I'm a algorithm engineer 👨‍💻 who is passionate about programme and open source. I'm also a self proclaimed graphic designer. 
+I'm Sixpence,I'm a algorithm engineer 👨‍💻 who is passionate about programme and open source.
 
 - 👨‍💻 I’m currently working on NLP(Natural Language Processing) 
 - 🌱 I’m currently learning mechine learning
