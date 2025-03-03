@@ -1,5 +1,5 @@
-# Yongjie
+# Yongjie Zhou
 
 - 👋 Hi, I'm Yongjie.
-- 👨‍💻 I’m currently working on NLP(Natural Language Processing).
-- 🌱 I’m interested in recommendation system & NLP.
+- 👨‍💻 I’m currently a graduate student at UQ.
+- 🌱 I’m interested in NLP, IR and LLMs.
